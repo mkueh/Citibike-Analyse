@@ -1,0 +1,27 @@
+[project]
+name = "citibike-analysis"
+version = "0.1.0"
+description = "Analysis notebooks for Citi Bike data"
+requires-python = ">=3.12"
+dependencies = [
+    "folium",
+    "holidays",
+    "ipykernel",
+    "jupyter",
+    "matplotlib",
+    "osmnx",
+    "numpy",
+    "pandas",
+    "polars",
+    "plotly",
+    "pyarrow",
+    "pyproj",
+    "seaborn",
+    "shapely",
+    "scikit-learn",
+    "pydantic",
+    "geopandas",
+    "rtree",
+    "tqdm",
+    "joblib",
+]

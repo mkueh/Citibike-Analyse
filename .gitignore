@@ -1,0 +1,5 @@
+.DS_Store
+cache/
+__pycache__/
+raw_data/citi_bike/20*
+raw_data/nypd/
